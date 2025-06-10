@@ -1,7 +1,7 @@
-name: my_plugin
+name: my_plugin_chinhtq
 description: "A Flutter plugin that provides a iOS MyPlugin widget on iOS."
-repository: https://github.com/TaoQuangChinh/my_plugin
-homepage: https://github.com/TaoQuangChinh/my_plugin
+repository: https://github.com/chinh-tao/myPlugin
+homepage: https://github.com/chinh-tao/myPlugin
 version: 0.0.1
 
 environment:
